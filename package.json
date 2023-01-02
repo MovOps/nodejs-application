@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/MovOps/Lucid-Webapp"
   },
   "keywords": [
     "node",
-    "Landmark Technologies",
+    "Zoolch",
     "express"
   ],
-  "author": "Simon Legah",
-  "license": "MyLandmarkTech"
+  "author": "Mo Damisa",
+  "license": "Zoolch"
 }
